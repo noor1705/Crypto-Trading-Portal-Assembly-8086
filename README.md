@@ -34,4 +34,4 @@ git clone https://github.com/your-repo/Crypto-Trading-Portal-Assembly-8086.git
 Developed by Mahnoor Islam.
 
 ## License
-This project is licensed under [MIT License](https://github.com/noor1705/Crypto-Trading-Portal-Assembly-8086/edit/main/License.md)
+This project is licensed under [MIT License](https://github.com/noor1705/Crypto-Trading-Portal-Assembly-8086/blob/main/LICENSE)
